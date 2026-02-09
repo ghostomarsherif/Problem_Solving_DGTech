@@ -19,7 +19,7 @@
 | HackerRank | 30 Days Days 1-10, Basic Data Types | [HR](https://hackerrank.com/domains/cpp) | ✅ |
 | LeetCode | Two Sum, Valid Anagram, Best Time Buy/Sell | [LC Phase 1](https://leetcode.com/problemset/all/?difficulty=EASY) | 🔄 |
 
-**📈 Progress**: [████████████████████████] 100%
+
 
 ---
 
@@ -32,7 +32,7 @@
 | Strings/Classes | String Validators | LC 3, Longest Substring | 0/10 |
 | OOP | C++ Class Templates | LC 78, Subsets | 0/10 |
 
-**📈 Progress**: [░░░░░░░░░░░░░░░░░░░░░░░░░] 0%
+
 
 ---
 
