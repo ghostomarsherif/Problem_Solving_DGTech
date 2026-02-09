@@ -14,7 +14,7 @@ This roadmap provides a progressive C++ **problem-solving** path aligned with *C
 
 ## References
 
-- 8 patterns to solve 80% Leetcode problems 
+- 8 patterns to solve 80% Leetcode problems: 
   [https://youtu.be/xo7XrRVxH8Y](https://youtu.be/xo7XrRVxH8Y?si=auOQQZ4hsUPcFgKH) 
   
 ---
