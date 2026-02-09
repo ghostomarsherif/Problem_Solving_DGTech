@@ -8,10 +8,20 @@
 
 ---
 
-## 📚 Phase 1: Foundations (Ch 1-4) ✅ [Weeks 1-4]
+## 📚 Phase 1: Foundations (Ch 1-4) ✅
 **Focus**: Syntax, Loops, Functions, Arrays  
 **Textbook**: Intro, Control Structures, Functions, Arrays  
-**Problems**: 30/30 ✅ | **Avg Time**: XX min/problem
+**HackerRank Problems**
+• Say "Hello, World!" With C++
+• Input and Output
+• Basic Data Types
+• Conditional Statements
+• For Loop
+• Functions
+• Pointer Introduction
+• Arrays Introduction
+• Variable Sized Arrays
+• Strings
 
 | Platform | Problems | Links | Status |
 |----------|----------|-------|--------|
