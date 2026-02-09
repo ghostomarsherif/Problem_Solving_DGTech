@@ -1,7 +1,6 @@
 # 🚀 C++ Problem-Solving Mastery Roadmap
 ## *C++ How to Program 10th Edition (Deitel) + LeetCode/HackerRank*
 
-[![Progress](https://progress-bar.dev/0/?suffix=complete)](https://github.com/yourusername/cpp-roadmap)
 
 **Status**: Active | **Start Date**: Feb 2026 | **Target**: 300+ Problems | **Patterns Mastered**: 8/8 🟢
 
