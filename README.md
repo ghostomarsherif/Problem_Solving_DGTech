@@ -5,8 +5,8 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-11%2F14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Roadmap](https://img.shields.io/badge/Roadmap-Problem%20Solving-2EA44F?style=flat-square)](#)
 [![Deitel](https://img.shields.io/badge/Deitel-C%2B%2B%20How%20to%20Program%2010e-6F42C1?style=flat-square)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Practice-00EA64?style=flat-square&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com](https://www.hackerrank.com/domains/cpp))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black)]([https://leetcode.com](https://leetcode.com/problemset/))
 
 This roadmap provides a progressive C++ **problem-solving** path aligned with *C++ How to Program (10th Edition)* by Deitel, combined with curated HackerRank and LeetCode problems to build strong fundamentals in data structures, algorithms, and interview preparation.
 
