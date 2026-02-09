@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# C++ Problem Solving Roadmap (C++ How to Program, 10th Edition)
+# C++ Problem Solving Roadmap 
 
 [![C++](https://img.shields.io/badge/C%2B%2B-11%2F14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Roadmap](https://img.shields.io/badge/Roadmap-Problem%20Solving-2EA44F?style=flat-square)](#)
@@ -12,6 +12,12 @@ This roadmap provides a progressive C++ **problem-solving** path aligned with *C
 
 ---
 
+## References
+
+- 8 patterns to solve 80% Leetcode problems – Sahil & Sarra  
+  [https://youtu.be/xo7XrRVxH8Y](https://youtu.be/xo7XrRVxH8Y?si=auOQQZ4hsUPcFgKH) [page:1, {ts:0}]
+  
+---
 <details>
 <summary><strong>Quick navigation</strong></summary>
 
